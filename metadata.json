@@ -1,0 +1,6 @@
+{
+  "name": "SmartMove Transport Solutions",
+  "description": "Enterprise passenger transportation management platform with Oracle database architecture, PL/SQL reporting engine, EER modeling, and MongoDB NoSQL unstructured integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
